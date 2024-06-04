@@ -9,7 +9,7 @@
 
 # Soal Latihan Praktikum 
 
-<img src="praktikum 5/SS/1.PNG")
+<img src="praktikum 5/SS1.PNG">
 
 ```
 -- Membuat Tabel Mahasiswa
